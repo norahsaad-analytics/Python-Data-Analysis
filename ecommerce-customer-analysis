@@ -1,6 +1,0 @@
-Python-Data-Analysis/
-├── README.md
-└── ecommerce-customer-analysis/
-    ├── README.md
-    ├── 01_eda_and_customer_segmentation.ipynb
-    └── 02_statistical_testing_analysis.ipynb
